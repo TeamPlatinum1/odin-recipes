@@ -3,4 +3,4 @@
 ## Description
 
 This serves as an exercise for learning HTML.  
-Just a simple Website that links to different recipes.
+Just a simple website that links to different recipes.
