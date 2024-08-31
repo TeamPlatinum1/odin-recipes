@@ -1,0 +1,27 @@
+body {
+    background-color: #e5ae7cb4;
+    text-align: center;
+}
+
+h1.heading {
+    color: black;
+    background-color: blueviolet;
+}
+
+h2.heading {
+    color: black;
+    background-color: aqua;
+}
+
+.heading,
+#main-heading {
+    font-family: sans-serif, serif;
+}
+
+.ingredients {
+    font-weight: 600;
+}
+
+img {
+    border-radius: 10px;
+}
